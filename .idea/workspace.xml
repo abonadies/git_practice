@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38395ad6-5576-40ea-bf48-c6444ba5554c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/git_practice/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/Awei_Hui.c/Awei_Hui.c/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/Awei_Hui/Assinment 2.xcodeproj/xcuserdata/aweihui.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/Awei_Hui/Assinment 2.xcodeproj/xcuserdata/aweihui.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/Awei_Hui/Assinment 2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/Awei_Hui/Assinment 2/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/New Folder With Items/assignment #1/assignment #1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/learnning/learnning/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/learnning/learnning/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/practice/practice/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/practice/practice/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/programming C/Assignment 5/Assignment 5/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/programming C/Assignment_4/Assignment_4/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/pythonXcode/pythonXcode.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/pythonXcode/pythonXcode.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desktop/everything/pythonXcode/pythonXcode.xcodeproj/xcuserdata/aweihui.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Desktop/everything/pythonXcode/pythonXcode.xcodeproj/xcuserdata/aweihui.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/N/N.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/N/N.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/N/N.xcodeproj/xcuserdata/wangwenyu.xcuserdatad/xcschemes/N.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/N/N.xcodeproj/xcuserdata/wangwenyu.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Downloads/N/N/main.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h3qlMLfApFBheeWDuwNsZFA39D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38395ad6-5576-40ea-bf48-c6444ba5554c" name="Default Changelist" comment="" />
+      <created>1599250274955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599250274955</updated>
+      <workItem from="1599250276745" duration="50000" />
+      <workItem from="1599600689184" duration="30000" />
+      <workItem from="1599604537495" duration="1000" />
+      <workItem from="1599605176688" duration="10000" />
+      <workItem from="1599608414525" duration="1000" />
+      <workItem from="1599632691445" duration="32000" />
+      <workItem from="1599657523931" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="58" y="78" key="new project wizard" timestamp="1599632722514">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="58" y="78" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1599632722514" />
+  </component>
+</project>
